@@ -1,0 +1,80 @@
+{
+  "Computadores": [
+    {
+      "id": 1,
+      "nombre": "Laptop Lenovo IdeaPad 3",
+      "categoria": "Computadores",
+      "precio": 2499000,
+      "disponible": true,
+      "stock": 12,
+      "dimensiones": {
+        "alto": 1.99,
+        "ancho": 35.9,
+        "profundidad": 23.6,
+        "unidad": "cm"
+      }
+    }
+  ],
+  "Accesorios": [
+    {
+      "id": 2,
+      "nombre": "Mouse Logitech M170",
+      "categoria": "Accesorios",
+      "precio": 45000,
+      "disponible": true,
+      "stock": 80,
+      "dimensiones": {
+        "alto": 3.8,
+        "ancho": 6.1,
+        "profundidad": 9.9,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "Teclado mecanico Redragon Kumara",
+      "categoria": "Accesorios",
+      "precio": 159000,
+      "disponible": true,
+      "stock": 25,
+      "dimensiones": {
+        "alto": 3.6,
+        "ancho": 35.4,
+        "profundidad": 12.3,
+        "unidad": "cm"
+      }
+    }
+  ],
+  "Pantallas": [
+    {
+      "id": 6,
+      "nombre": "Monitor LG UltraGear 27 pulgadas",
+      "categoria": "Pantallas",
+      "precio": 1150000,
+      "disponible": true,
+      "stock": 7,
+      "dimensiones": {
+        "alto": 45.6,
+        "ancho": 61.4,
+        "profundidad": 23,
+        "unidad": "cm"
+      }
+    }
+  ],
+  "Audio": [
+    {
+      "id": 7,
+      "nombre": "Audifonos Sony WH-CH520",
+      "categoria": "Audio",
+      "precio": 219000,
+      "disponible": true,
+      "stock": 18,
+      "dimensiones": {
+        "alto": 17,
+        "ancho": 15.5,
+        "profundidad": 6,
+        "unidad": "cm"
+      }
+    }
+  ]
+}
